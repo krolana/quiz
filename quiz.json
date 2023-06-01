@@ -1,0 +1,122 @@
+[
+  {
+    "pytanie": " Jak nazywała się waluta Łotwy przed wprowadzeniem euro?",
+    "a": "talon",
+    "b": "łat",
+    "c": "korona",
+    "d": "rubel",
+    "prawidłowa odpowiedź": "b"
+  },
+  {
+    "pytanie": "Na jakim kontynencie leży Gujana Francuska?",
+    "a": "w Europie",
+    "b": "w Ameryce Północnej",
+    "c": "w Ameryce Południowej",
+    "d": "w Azji",
+    "prawidłowa odpowiedź": "c"
+  },
+  {
+    "pytanie": "W którym wieku żył Jan Długosz?",
+    "a": "w XII w.",
+    "b": "w XIV w.",
+    "c": "w XV w.",
+    "d": "w XVI w.",
+    "prawidłowa odpowiedź": "c"
+  },
+  {
+    "pytanie": "Od którego roku odbywa się kolarski wyścig Tour de France?",
+    "a": "1903 r.",
+    "b": "1913 r.",
+    "c": "1923 r.",
+    "d": "1926 r.",
+    "prawidłowa odpowiedź": "a"
+  },
+  {
+    "pytanie": "Rzekotka to...",
+    "a": "jaszczurka",
+    "b": "wąż",
+    "c": "żaba",
+    "d": "ptak",
+    "prawidłowa odpowiedź": "c"
+  },
+  {
+    "pytanie": "W jakim województwie leży Biała Podlaska?",
+    "a": "lubelskim",
+    "b": "lubuskim",
+    "c": "podlaskim",
+    "d": "mazowieckim",
+    "prawidłowa odpowiedź": "a"
+  },
+  {
+    "pytanie": "Z którego kraju pochodzi napój sangria?",
+    "a": "z Włoch",
+    "b": "z Hiszpanii",
+    "c": "z Portugalii",
+    "d": "z Grecji",
+    "prawidłowa odpowiedź": "b"
+  },
+  {
+    "pytanie": "Kto jest autorem sentencji 'carpe diem'?",
+    "a": "Seneka",
+    "b": "Owidiusz",
+    "c": "Horacy",
+    "d": "Cyceron",
+    "prawidłowa odpowiedź": "c"
+  },
+  {
+    "pytanie": "Która z wymienionych to tak zwana kawa z prądem?",
+    "a": "kawa po irlandzku",
+    "b": "espresso",
+    "c": "flat white",
+    "d": "cappucino",
+    "prawidłowa odpowiedź": "a"
+  },
+  {
+    "pytanie": "Ile trwa ciąża słonia?",
+    "a": "5 miesięcy",
+    "b": "9 miesięcy",
+    "c": "rok",
+    "d": "prawie dwa lata",
+    "prawidłowa odpowiedź": "d"
+  },
+  {
+    "pytanie": "Jak miała na imię córka Demeter?",
+    "a": "Persefona",
+    "b": "Hera",
+    "c": "Hestia",
+    "d": "Kaliope",
+    "prawidłowa odpowiedź": "a"
+  },
+  {
+    "pytanie": "Który z tych krajów ma największą powierzchnię?",
+    "a": "Madagaskar",
+    "b": "Indonezja",
+    "c": "Kolumbia",
+    "d": "Egipt",
+    "prawidłowa odpowiedź": "b"
+  },
+  {
+    "pytanie": "Co to jest planimetria?",
+    "a": "choroba zakaźna",
+    "b": "jednostka medyczna",
+    "c": "dział geometrii",
+    "d": "dział nauk o projektowaniu przestrzeni",
+    "prawidłowa odpowiedź": "c"
+  },
+  {
+    "pytanie": "Pacyfik to inna nazwa...",
+    "a": "Oceanu Atlantyckiego",
+    "b": "Oceanu Arktycznego",
+    "c": "Oceanu Spokojnego",
+    "d": "Oceanu Indyjskiego",
+    "prawidłowa odpowiedź": "c"
+  },
+  {
+    "pytanie": "Kto objął tron Polski po Władysławie Łokietku?",
+    "a": "Władysław Jagiełło",
+    "b": "Kazimierz IV",
+    "c": "Bolesław Szczodry",
+    "d": "Kazimierz Wielki",
+    "prawidłowa odpowiedź": "d"
+  }
+  ]
